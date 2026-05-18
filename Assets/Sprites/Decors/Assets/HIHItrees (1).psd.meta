@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 78bb14a35f89144469ae256369c444e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3168321917816928707
+    second: HIHItrees (1)_0
+  - first:
+      213: 1642046822439235269
+    second: HIHItrees (1)_1
+  - first:
+      213: -4284584870484901785
+    second: HIHItrees (1)_2
+  - first:
+      213: -7984798558034422852
+    second: HIHItrees (1)_3
+  - first:
+      213: -663813675045342725
+    second: HIHItrees (1)_4
+  - first:
+      213: -1143209261473600894
+    second: HIHItrees (1)_5
+  - first:
+      213: -5349332926040922402
+    second: HIHItrees (1)_6
+  - first:
+      213: -3296153592111148669
+    second: HIHItrees (1)_7
+  - first:
+      213: 5461097523627912116
+    second: HIHItrees (1)_8
+  - first:
+      213: 5667766993972163188
+    second: HIHItrees (1)_9
+  - first:
+      213: -7393781296078576137
+    second: HIHItrees (1)_10
+  - first:
+      213: -265558320056465669
+    second: HIHItrees (1)_11
+  - first:
+      213: 5654929983204405494
+    second: HIHItrees (1)_12
+  - first:
+      213: -5217866415722494367
+    second: HIHItrees (1)_13
+  - first:
+      213: -2124028593753838511
+    second: HIHItrees (1)_14
+  - first:
+      213: -5386627234686866872
+    second: HIHItrees (1)_15
+  - first:
+      213: 9017738247029527972
+    second: HIHItrees (1)_16
+  - first:
+      213: -8298538515035176672
+    second: HIHItrees (1)_17
+  - first:
+      213: 4427850828264372165
+    second: HIHItrees (1)_18
+  - first:
+      213: 2749923578625366495
+    second: HIHItrees (1)_19
+  - first:
+      213: 673482919528918549
+    second: HIHItrees (1)_20
+  - first:
+      213: -5573839937926347995
+    second: HIHItrees (1)_21
+  - first:
+      213: 8799912768333315437
+    second: HIHItrees (1)_22
+  - first:
+      213: -593460152590250520
+    second: HIHItrees (1)_23
+  - first:
+      213: 2229631028355409774
+    second: HIHItrees (1)_24
+  - first:
+      213: 5269806169466316326
+    second: HIHItrees (1)_25
+  - first:
+      213: 6043734287999567311
+    second: HIHItrees (1)_26
+  - first:
+      213: -6045820033149796713
+    second: HIHItrees (1)_27
+  - first:
+      213: -5246205277769578424
+    second: HIHItrees (1)_28
+  - first:
+      213: 553128106700810931
+    second: HIHItrees (1)_29
+  - first:
+      213: 4956678001828530260
+    second: HIHItrees (1)_30
+  - first:
+      213: -7775000407330864885
+    second: HIHItrees (1)_31
+  - first:
+      213: -5742344654813044793
+    second: HIHItrees (1)_32
+  - first:
+      213: -3302008169920218093
+    second: HIHItrees (1)_33
+  - first:
+      213: -5384347666430623459
+    second: HIHItrees (1)_34
+  - first:
+      213: 8678141924727486763
+    second: HIHItrees (1)_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HIHItrees (1)_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 185
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9ff8d6ff328fb20800000000000000
+      internalID: 3168321917816928707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 216
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceac0492e8b9c610800000000000000
+      internalID: 1642046822439235269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 216
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7600cb0d2c81a84c0800000000000000
+      internalID: -4284584870484901785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 216
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb39e49440c403190800000000000000
+      internalID: -7984798558034422852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 216
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf130e5caf8a9c6f0800000000000000
+      internalID: -663813675045342725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 195
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aede1db318220f0800000000000000
+      internalID: -1143209261473600894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 195
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6a706bb0a53c5b0800000000000000
+      internalID: -5349332926040922402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 195
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381561195c5b142d0800000000000000
+      internalID: -3296153592111148669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 195
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb6b9b7347b9cb40800000000000000
+      internalID: 5461097523627912116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472f4694d04f7ae40800000000000000
+      internalID: 5667766993972163188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 165
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f52f4cc513046990800000000000000
+      internalID: -7393781296078576137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 129
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf682e96d1c805cf0800000000000000
+      internalID: -265558320056465669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 129
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ba9ecbd85a7e40800000000000000
+      internalID: 5654929983204405494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 129
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1668b6de32a6697b0800000000000000
+      internalID: -5217866415722494367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 153
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca7806f3fe582e0800000000000000
+      internalID: -2124028593753838511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 143
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a6b03d11bde35b0800000000000000
+      internalID: -5386627234686866872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 134
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a516ab5821752d70800000000000000
+      internalID: 9017738247029527972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 129
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0214e68203ba5dc80800000000000000
+      internalID: -8298538515035176672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 65
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7fd195ed2e27d30800000000000000
+      internalID: 4427850828264372165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 65
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd99f6fcce0b92620800000000000000
+      internalID: 2749923578625366495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 98
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e60d4a521b85900800000000000000
+      internalID: 673482919528918549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 98
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523c301ab1eb5a2b0800000000000000
+      internalID: -5573839937926347995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 69
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d7ee2f9029f1a70800000000000000
+      internalID: 8799912768333315437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 83
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed4280b22b93c7f0800000000000000
+      internalID: -593460152590250520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6720517b9d31fe10800000000000000
+      internalID: 2229631028355409774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_25
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 69
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626a33e5acc122940800000000000000
+      internalID: 5269806169466316326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 39
+        width: 91
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc500195058afd350800000000000000
+      internalID: 6043734287999567311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e7a2446bee81ca0800000000000000
+      internalID: -6045820033149796713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 41
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c3cf681cb137b0800000000000000
+      internalID: -5246205277769578424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baaf2b151b1da700800000000000000
+      internalID: 553128106700810931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 12
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4588bfc8168a9c440800000000000000
+      internalID: 4956678001828530260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 20
+        width: 91
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c680c256a91490800000000000000
+      internalID: -7775000407330864885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf5100f5f71f40b0800000000000000
+      internalID: -5742344654813044793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 10
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb7727019ec22d0800000000000000
+      internalID: -3302008169920218093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11033b2354f645b0800000000000000
+      internalID: -5384347666430623459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIHItrees (1)_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 12
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b297ecd0a14fe6870800000000000000
+      internalID: 8678141924727486763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HIHItrees (1)_0: 3168321917816928707
+      HIHItrees (1)_1: 1642046822439235269
+      HIHItrees (1)_10: -7393781296078576137
+      HIHItrees (1)_11: -265558320056465669
+      HIHItrees (1)_12: 5654929983204405494
+      HIHItrees (1)_13: -5217866415722494367
+      HIHItrees (1)_14: -2124028593753838511
+      HIHItrees (1)_15: -5386627234686866872
+      HIHItrees (1)_16: 9017738247029527972
+      HIHItrees (1)_17: -8298538515035176672
+      HIHItrees (1)_18: 4427850828264372165
+      HIHItrees (1)_19: 2749923578625366495
+      HIHItrees (1)_2: -4284584870484901785
+      HIHItrees (1)_20: 673482919528918549
+      HIHItrees (1)_21: -5573839937926347995
+      HIHItrees (1)_22: 8799912768333315437
+      HIHItrees (1)_23: -593460152590250520
+      HIHItrees (1)_24: 2229631028355409774
+      HIHItrees (1)_25: 5269806169466316326
+      HIHItrees (1)_26: 6043734287999567311
+      HIHItrees (1)_27: -6045820033149796713
+      HIHItrees (1)_28: -5246205277769578424
+      HIHItrees (1)_29: 553128106700810931
+      HIHItrees (1)_3: -7984798558034422852
+      HIHItrees (1)_30: 4956678001828530260
+      HIHItrees (1)_31: -7775000407330864885
+      HIHItrees (1)_32: -5742344654813044793
+      HIHItrees (1)_33: -3302008169920218093
+      HIHItrees (1)_34: -5384347666430623459
+      HIHItrees (1)_35: 8678141924727486763
+      HIHItrees (1)_4: -663813675045342725
+      HIHItrees (1)_5: -1143209261473600894
+      HIHItrees (1)_6: -5349332926040922402
+      HIHItrees (1)_7: -3296153592111148669
+      HIHItrees (1)_8: 5461097523627912116
+      HIHItrees (1)_9: 5667766993972163188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
