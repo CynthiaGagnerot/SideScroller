@@ -5,6 +5,7 @@ public class PlayerMovementPlatformer : MonoBehaviour
     public Rigidbody2D rb; //Ne pas oublier d'activer la gravity scale du rigidbody et d'ajouter un collider
     public float speed = 1;
     public float jumpforce = 1;
+    public float jumpdetector = 1.5f;
     public LayerMask mask; //Quels layer seront affect� par le raycast attention a ne pas ajouter le layer de votre perso sinon le raycast va trouver le perso avant de trouver le sol
     public bool isGrounded;
     public void Update()
@@ -36,7 +37,7 @@ public class PlayerMovementPlatformer : MonoBehaviour
 
     public bool CheckGround()
     {
-        var rayCastHit = Physics2D.Raycast(transform.position, new Vector2(0, -1), 1.1f, mask);
+        var rayCastHit = Physics2D.Raycast(transform.position, new Vector2(0, -1), jumpdetector, mask);
         if (rayCastHit)
         {
             print("raycasthit");
@@ -48,6 +49,6 @@ public class PlayerMovementPlatformer : MonoBehaviour
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.purple;
-        Gizmos.DrawRay(transform.position, Vector3.down * 1.1f);
+        Gizmos.DrawRay(transform.position, Vector3.down * jumpdetector);
     }
 }
