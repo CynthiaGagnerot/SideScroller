@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Sip
+  - Box
   layers:
   - Default
   - TransparentFX
@@ -11,9 +13,9 @@ TagManager:
   - Player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Rock
+  - AntiMolly
+  - Sip
   - 
   - 
   - 
@@ -43,6 +45,18 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 663619371
+    locked: 0
+  - name: Tiles
+    uniqueID: 2967003227
+    locked: 0
+  - name: OverTiles
+    uniqueID: 1538843363
+    locked: 0
+  - name: Player
+    uniqueID: 761721809
     locked: 0
   m_RenderingLayers:
   - Default

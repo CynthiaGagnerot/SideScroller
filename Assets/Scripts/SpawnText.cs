@@ -18,7 +18,7 @@ public class SpawnText : MonoBehaviour
    
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Player")
+        if (collision.gameObject.tag == "Player" || collision.gameObject.tag == "Sip")
         {
             
             yourText.enabled = true; 
@@ -30,7 +30,7 @@ public class SpawnText : MonoBehaviour
     void OnTriggerExit2D(UnityEngine.Collider2D other)
     {
         
-        if (other.gameObject.tag == "Player")
+        if (other.gameObject.tag == "Player" || other.gameObject.tag == "Sip")
         {
             yourText.enabled = false; 
         }

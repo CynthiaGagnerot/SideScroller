@@ -7,6 +7,7 @@ public class CharacterSwitch : MonoBehaviour
     public PlayerMovementPlatformer playerController;
     public PlayerMovementPlatformer player2Controller;
     public bool player1Active = true;
+    public bool isCalling = false; 
     private void Awake()
     {
         player1Active = true;
@@ -47,6 +48,35 @@ public class CharacterSwitch : MonoBehaviour
             }
 
         }
+    }
+
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        Debug.Log("sip détecté");
+        if (Input.GetKeyDown(KeyCode.Q)) 
+        {
+            if (collision.gameObject.tag == "Sip")
+            {
+                isCalling = !isCalling;
+                Rigidbody2D rb = collision.gameObject.GetComponent<Rigidbody2D>();
+                Collider2D col = collision.gameObject.GetComponent<Collider2D>();
+                if (rb.gravityScale > 0)
+                {
+                    rb.gravityScale = 0;
+                    rb.bodyType = RigidbodyType2D.Static;
+                    col.isTrigger = true;
+                }
+                else
+                {
+
+                    rb.bodyType = RigidbodyType2D.Dynamic;
+                    rb.gravityScale = 0.75f;
+                    col.isTrigger = false;
+                }
+
+            }
+        }
+        
     }
 
 }
