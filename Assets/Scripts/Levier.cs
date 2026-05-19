@@ -9,6 +9,7 @@ public class Levier : MonoBehaviour
     public Vector3 posDesactivee;
     public Vector3 posActivee;
     public float activeSpeed;
+    [SerializeField] private Animator animator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -24,11 +25,13 @@ public class Levier : MonoBehaviour
             if (LeverState == false)
             {
                 LeverState = true;
+                animator.SetTrigger("Activate");
             }
 
             else
             {
                 LeverState = false;
+                animator.SetTrigger("Activate");
             }
 
         }

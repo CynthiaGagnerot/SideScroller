@@ -1,76 +1,67 @@
 fileFormatVersion: 2
-guid: b71836e7517dffe438fcedb48677e658
+guid: 3ac6915c44394904d813f821dd2ed30e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3006462389254412122
-    second: Puzzles (1)_0
+      213: -9117783164862346489
+    second: MenuAjuste_0
   - first:
-      213: 532959003067925288
-    second: Puzzles (1)_1
+      213: 8306706452285221125
+    second: MenuAjuste_1
   - first:
-      213: 2552966641330446492
-    second: Puzzles (1)_2
+      213: -324063149918055391
+    second: MenuAjuste_2
   - first:
-      213: -9023207063052166579
-    second: Puzzles (1)_3
+      213: 2441674318642527811
+    second: MenuAjuste_3
   - first:
-      213: -1670937977630084623
-    second: Puzzles (1)_4
+      213: 8547799192554632009
+    second: MenuAjuste_4
   - first:
-      213: 812973078450103507
-    second: Puzzles (1)_5
+      213: -2300200028195223914
+    second: MenuAjuste_5
   - first:
-      213: 1072636925986795185
-    second: Puzzles (1)_6
+      213: 2641123694292611296
+    second: MenuAjuste_6
   - first:
-      213: 4070989655807029885
-    second: Puzzles (1)_7
+      213: -5253917295472732022
+    second: MenuAjuste_7
   - first:
-      213: 2036636573116474934
-    second: Puzzles (1)_8
+      213: -4415113490928367364
+    second: MenuAjuste_8
   - first:
-      213: 6152305185979655633
-    second: Puzzles (1)_9
+      213: 4695320626232970871
+    second: MenuAjuste_9
   - first:
-      213: -4872896863096120258
-    second: Puzzles (1)_10
+      213: -9061092004899265794
+    second: MenuAjuste_10
   - first:
-      213: -831733957201376237
-    second: Puzzles (1)_11
+      213: -5352563848541099148
+    second: MenuAjuste_11
   - first:
-      213: 7034997108411100103
-    second: Puzzles (1)_12
+      213: -1456060034728945788
+    second: MenuAjuste_12
   - first:
-      213: -6385330939781350285
-    second: Puzzles (1)_13
+      213: 2790715898690166193
+    second: MenuAjuste_13
   - first:
-      213: 1141593409848434461
-    second: Puzzles (1)_14
+      213: -3682792055832264654
+    second: MenuAjuste_14
   - first:
-      213: -1484788651452254292
-    second: Puzzles (1)_15
+      213: 579568442476534596
+    second: MenuAjuste_15
   - first:
-      213: -574620621540097755
-    second: Puzzles (1)_16
+      213: -6343437852401302586
+    second: MenuAjuste_16
   - first:
-      213: 7598157206490471353
-    second: Puzzles (1)_17
+      213: -7647713289424784886
+    second: MenuAjuste_17
   - first:
-      213: -5551353456619721756
-    second: Puzzles (1)_18
+      213: 3974337523206996110
+    second: MenuAjuste_18
   - first:
-      213: -1666794219189074253
-    second: Puzzles (1)_19
-  - first:
-      213: -5143843927491278743
-    second: Puzzles (1)_20
-  - first:
-      213: -8799986503166958452
-    second: Puzzles (1)_21
-  - first:
-      213: -2719980022384580614
-    second: Puzzles (1)_22
+      213: 8347231884615981272
+    second: MenuAjuste_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -163,19 +154,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -192,507 +170,441 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Puzzles (1)_0
+      name: MenuAjuste_0
       rect:
         serializedVersion: 2
-        x: 46
-        y: 237
-        width: 156
-        height: 152
+        x: 10
+        y: 462
+        width: 171
+        height: 108
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a82be9c266e646d0800000000000000
-      internalID: -3006462389254412122
+      spriteID: 70bc7570580277180800000000000000
+      internalID: -9117783164862346489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puzzles (1)_1
+      name: MenuAjuste_1
       rect:
         serializedVersion: 2
-        x: 232
-        y: 237
-        width: 156
-        height: 150
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 823c5b9b363756700800000000000000
-      internalID: 532959003067925288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_2
-      rect:
-        serializedVersion: 2
-        x: 437
-        y: 344
-        width: 35
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c906ce352a5fd6320800000000000000
-      internalID: 2552966641330446492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_3
-      rect:
-        serializedVersion: 2
-        x: 475
-        y: 344
-        width: 35
-        height: 42
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d4adaffabf027c280800000000000000
-      internalID: -9023207063052166579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_4
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 344
-        width: 35
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f136a923c2afc8e0800000000000000
-      internalID: -1670937977630084623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_5
-      rect:
-        serializedVersion: 2
-        x: 573
-        y: 344
-        width: 33
-        height: 27
-      alignment: 9
-      pivot: {x: 0.5891224, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d469f025b2484b00800000000000000
-      internalID: 812973078450103507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_6
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 344
-        width: 28
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1bee862e995c2ee00800000000000000
-      internalID: 1072636925986795185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_7
-      rect:
-        serializedVersion: 2
-        x: 639
-        y: 344
-        width: 32
-        height: 27
-      alignment: 9
-      pivot: {x: 0.42511368, y: 0.0040339716}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d72faaed58f0f7830800000000000000
-      internalID: 4070989655807029885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_8
-      rect:
-        serializedVersion: 2
-        x: 671
-        y: 344
-        width: 32
-        height: 27
-      alignment: 9
-      pivot: {x: 0.4285183, y: -0.0040339716}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6362d253c26934c10800000000000000
-      internalID: 2036636573116474934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_9
-      rect:
-        serializedVersion: 2
-        x: 874
-        y: 343
-        width: 65
+        x: 205
+        y: 496
+        width: 40
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d56c1868f0616550800000000000000
-      internalID: 6152305185979655633
+      spriteID: 509e7ede189574370800000000000000
+      internalID: 8306706452285221125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puzzles (1)_10
+      name: MenuAjuste_2
       rect:
         serializedVersion: 2
-        x: 422
-        y: 247
-        width: 93
-        height: 66
+        x: 253
+        y: 497
+        width: 82
+        height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3c5a08ee1eff5cb0800000000000000
-      internalID: -4872896863096120258
+      spriteID: 12417583842b08bf0800000000000000
+      internalID: -324063149918055391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puzzles (1)_11
+      name: MenuAjuste_3
       rect:
         serializedVersion: 2
-        x: 561
-        y: 308
-        width: 45
-        height: 27
-      alignment: 9
-      pivot: {x: 0.6912259, y: -0.004284894}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31cc1656f561574f0800000000000000
-      internalID: -831733957201376237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_12
-      rect:
-        serializedVersion: 2
-        x: 607
-        y: 308
-        width: 29
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7cb6ebad89451a160800000000000000
-      internalID: 7034997108411100103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_13
-      rect:
-        serializedVersion: 2
-        x: 639
-        y: 308
-        width: 32
+        x: 349
+        y: 528
+        width: 24
         height: 28
-      alignment: 9
-      pivot: {x: 0.4319229, y: -0.0077798027}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37c7509575fb267a0800000000000000
-      internalID: -6385330939781350285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_14
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 67
-        width: 160
-        height: 159
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1f51f76821c7df00800000000000000
-      internalID: 1141593409848434461
+      spriteID: 34eb1e33bd192e120800000000000000
+      internalID: 2441674318642527811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puzzles (1)_15
+      name: MenuAjuste_4
       rect:
         serializedVersion: 2
-        x: 237
-        y: 67
-        width: 156
-        height: 152
+        x: 417
+        y: 492
+        width: 90
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca738a79698f46be0800000000000000
-      internalID: -1484788651452254292
+      spriteID: 943f693d312ef9670800000000000000
+      internalID: 8547799192554632009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puzzles (1)_16
+      name: MenuAjuste_5
       rect:
         serializedVersion: 2
-        x: 445
-        y: 205
-        width: 56
-        height: 9
+        x: 257
+        y: 391
+        width: 260
+        height: 91
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5210d74d6998608f0800000000000000
-      internalID: -574620621540097755
+      spriteID: 6968417e24c0410e0800000000000000
+      internalID: -2300200028195223914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puzzles (1)_17
+      name: MenuAjuste_6
       rect:
         serializedVersion: 2
-        x: 546
-        y: 105
-        width: 38
-        height: 168
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9bb5078f8b3127960800000000000000
-      internalID: 7598157206490471353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_18
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 105
-        width: 43
-        height: 172
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4eb6b8b8171a5f2b0800000000000000
-      internalID: -5551353456619721756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_19
-      rect:
-        serializedVersion: 2
-        x: 650
-        y: 105
-        width: 38
-        height: 168
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b68f8b1d7b5ed8e0800000000000000
-      internalID: -1666794219189074253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_20
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 104
-        width: 42
-        height: 169
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96805d183356d98b0800000000000000
-      internalID: -5143843927491278743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puzzles (1)_21
-      rect:
-        serializedVersion: 2
-        x: 445
-        y: 197
-        width: 56
+        x: 592
+        y: 469
+        width: 8
         height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c84608256ea20e580800000000000000
-      internalID: -8799986503166958452
+      spriteID: 0e0bd26b10827a420800000000000000
+      internalID: 2641123694292611296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puzzles (1)_22
+      name: MenuAjuste_7
       rect:
         serializedVersion: 2
-        x: 440
-        y: 105
-        width: 57
-        height: 12
+        x: 593
+        y: 462
+        width: 39
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af7ab99a490b04ad0800000000000000
-      internalID: -2719980022384580614
+      spriteID: a8811146e065617b0800000000000000
+      internalID: -5253917295472732022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf80e2a1cad5ab2c0800000000000000
+      internalID: -4415113490928367364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 335
+        width: 128
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4e219b31292140800000000000000
+      internalID: 4695320626232970871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 207
+        width: 125
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2e8da44d8804280800000000000000
+      internalID: -9061092004899265794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 190
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b2c12f98fd7b5b0800000000000000
+      internalID: -5352563848541099148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 114
+        width: 190
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487965aec190bcbe0800000000000000
+      internalID: -1456060034728945788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 109
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd5672f25d9ab620800000000000000
+      internalID: 2790715898690166193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 109
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230cc72332814ecc0800000000000000
+      internalID: -3682792055832264654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_15
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 104
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b17d08d6a0b0800800000000000000
+      internalID: 579568442476534596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 19
+        width: 251
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c38ad8d1e497f7a0800000000000000
+      internalID: -6343437852401302586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 76
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a023dc7584dddd590800000000000000
+      internalID: -7647713289424784886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 54
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e804240abeea72730800000000000000
+      internalID: 3974337523206996110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuAjuste_19
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 55
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8995c6c2357d370800000000000000
+      internalID: 8347231884615981272
       vertices: []
       indices: 
       edges: []
@@ -701,7 +613,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: adff64666970f5644a56f2926258e8b7
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -711,29 +623,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Puzzles (1)_0: -3006462389254412122
-      Puzzles (1)_1: 532959003067925288
-      Puzzles (1)_10: -4872896863096120258
-      Puzzles (1)_11: -831733957201376237
-      Puzzles (1)_12: 7034997108411100103
-      Puzzles (1)_13: -6385330939781350285
-      Puzzles (1)_14: 1141593409848434461
-      Puzzles (1)_15: -1484788651452254292
-      Puzzles (1)_16: -574620621540097755
-      Puzzles (1)_17: 7598157206490471353
-      Puzzles (1)_18: -5551353456619721756
-      Puzzles (1)_19: -1666794219189074253
-      Puzzles (1)_2: 2552966641330446492
-      Puzzles (1)_20: -5143843927491278743
-      Puzzles (1)_21: -8799986503166958452
-      Puzzles (1)_22: -2719980022384580614
-      Puzzles (1)_3: -9023207063052166579
-      Puzzles (1)_4: -1670937977630084623
-      Puzzles (1)_5: 812973078450103507
-      Puzzles (1)_6: 1072636925986795185
-      Puzzles (1)_7: 4070989655807029885
-      Puzzles (1)_8: 2036636573116474934
-      Puzzles (1)_9: 6152305185979655633
+      MenuAjuste_0: -9117783164862346489
+      MenuAjuste_1: 8306706452285221125
+      MenuAjuste_10: -9061092004899265794
+      MenuAjuste_11: -5352563848541099148
+      MenuAjuste_12: -1456060034728945788
+      MenuAjuste_13: 2790715898690166193
+      MenuAjuste_14: -3682792055832264654
+      MenuAjuste_15: 579568442476534596
+      MenuAjuste_16: -6343437852401302586
+      MenuAjuste_17: -7647713289424784886
+      MenuAjuste_18: 3974337523206996110
+      MenuAjuste_19: 8347231884615981272
+      MenuAjuste_2: -324063149918055391
+      MenuAjuste_3: 2441674318642527811
+      MenuAjuste_4: 8547799192554632009
+      MenuAjuste_5: -2300200028195223914
+      MenuAjuste_6: 2641123694292611296
+      MenuAjuste_7: -5253917295472732022
+      MenuAjuste_8: -4415113490928367364
+      MenuAjuste_9: 4695320626232970871
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

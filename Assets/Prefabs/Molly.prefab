@@ -173,10 +173,13 @@ MonoBehaviour:
   rb: {fileID: 1861142803625395490}
   speed: 7
   jumpforce: 7.5
+  jumpdetector: 1.5
   mask:
     serializedVersion: 2
     m_Bits: 1
   isGrounded: 0
+  animator: {fileID: 0}
+  childT: {fileID: 0}
 --- !u!1 &8951386936216717453
 GameObject:
   m_ObjectHideFlags: 0
@@ -188,7 +191,6 @@ GameObject:
   - component: {fileID: 4064761168773651284}
   - component: {fileID: 590478180510116909}
   - component: {fileID: 3138653909196949383}
-  - component: {fileID: 7224601665125397902}
   m_Layer: 3
   m_Name: CamMolly
   m_TagString: Untagged
@@ -273,32 +275,3 @@ MonoBehaviour:
     RotationDamping: {x: 1, y: 1, z: 1}
     QuaternionDamping: 1
   FollowOffset: {x: 0, y: 0, z: -10}
---- !u!114 &7224601665125397902
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8951386936216717453}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f38bda98361e1de48a4ca2bd86ea3c17, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineRotationComposer
-  Composition:
-    ScreenPosition: {x: 0, y: 0}
-    DeadZone:
-      Enabled: 0
-      Size: {x: 0.2, y: 0.2}
-    HardLimits:
-      Enabled: 0
-      Size: {x: 0.8, y: 0.8}
-      Offset: {x: 0, y: 0}
-  CenterOnActivate: 1
-  TargetOffset: {x: 0, y: 0, z: 0}
-  Damping: {x: 0.5, y: 0.5}
-  Lookahead:
-    Enabled: 0
-    Time: 0
-    Smoothing: 0
-    IgnoreY: 0
