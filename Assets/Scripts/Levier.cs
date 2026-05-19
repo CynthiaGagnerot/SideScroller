@@ -6,8 +6,8 @@ public class Levier : MonoBehaviour
     public bool LeverState=false;
     public bool Proxi=false; //proxi = a proximite
     public GameObject toMove;
-    public Vector3 posDesactivee;
-    public Vector3 posActivee;
+    public Transform posDesactivee;
+    public Transform posActivee;
     public float activeSpeed;
     [SerializeField] private Animator animator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -37,8 +37,8 @@ public class Levier : MonoBehaviour
         }
         if (LeverState ==true)
         {
-            var diffX = toMove.transform.position.x - posActivee.x;
-            var diffY = toMove.transform.position.y - posActivee.y ;
+            var diffX = toMove.transform.position.x - posActivee.position.x;
+            var diffY = toMove.transform.position.y - posActivee.position.y ;
             if ((diffX != 0) || (diffY != 0))
             {
                 toMove.transform.position = new Vector3((toMove.transform.position.x + diffX * activeSpeed), (toMove.transform.position.y - diffY * activeSpeed), 0);
@@ -46,8 +46,8 @@ public class Levier : MonoBehaviour
         }
         else
         {
-            var diffX = posDesactivee.x - toMove.transform.position.x;
-            var diffY = posDesactivee.y - toMove.transform.position.y;
+            var diffX = posDesactivee.position.x - toMove.transform.position.x;
+            var diffY = posDesactivee.position.y - toMove.transform.position.y;
             if ((diffX != 0) || (diffY != 0))
             {
                 toMove.transform.position = new Vector3((toMove.transform.position.x + diffX * activeSpeed), (toMove.transform.position.y + diffY * activeSpeed), 0);
