@@ -3,12 +3,13 @@ using UnityEngine;
 
 public class Levier : MonoBehaviour
 {
-    public bool LeverState=false;
+    public bool dialogueManagerState=false;
     public bool Proxi=false; //proxi = a proximite
     public GameObject toMove;
     public Transform posDesactivee;
     public Transform posActivee;
     public float activeSpeed;
+    public GameObject Ebutton;
     [SerializeField] private Animator animator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -22,20 +23,20 @@ public class Levier : MonoBehaviour
 
         if (Proxi == true && Input.GetKeyDown(KeyCode.E))
         {
-            if (LeverState == false)
+            if (dialogueManagerState == false)
             {
-                LeverState = true;
+                dialogueManagerState = true;
                 animator.SetTrigger("Activate");
             }
 
             else
             {
-                LeverState = false;
+                dialogueManagerState = false;
                 animator.SetTrigger("Activate");
             }
 
         }
-        if (LeverState ==true)
+        if (dialogueManagerState ==true)
         {
             var diffX = toMove.transform.position.x - posActivee.position.x;
             var diffY = toMove.transform.position.y - posActivee.position.y ;
@@ -61,9 +62,9 @@ public class Levier : MonoBehaviour
         Debug.Log("collisionavecjoueurdetectewns<lksn");
         
         
-            
+    
             Proxi = true;
-        
+        Ebutton.SetActive(true);
        
 
     }
@@ -73,7 +74,8 @@ public class Levier : MonoBehaviour
         
         
             Proxi = false;
-        
+        Ebutton.SetActive(false);
+
 
     }
 
