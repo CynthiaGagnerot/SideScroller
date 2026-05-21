@@ -1,4 +1,3 @@
-using Microsoft.Unity.VisualStudio.Editor;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -16,7 +15,7 @@ public class PannelManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
-        dialogueManager = FindFirstObjectByType<DialogueManager>();
+        //dialogueManager = FindFirstObjectByType<DialogueManager>();
         dialogueManagerObj.GetComponent<Sprite>();
     }
     void Start()

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3057058426781413078}
   - component: {fileID: 6211154126232290202}
   - component: {fileID: 4249397663576629736}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Pannel01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -153,8 +153,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PannelManager
   Proxi: 0
   dialogueManagerState: 0
+  PanelText: {fileID: 0}
   Ebutton: {fileID: 5663924326761762905}
-  animator: {fileID: 0}
+  dialogueManagerObj: {fileID: 0}
   dialogueManager: {fileID: 0}
 --- !u!1 &5663924326761762905
 GameObject:
@@ -167,7 +168,7 @@ GameObject:
   - component: {fileID: 532484976470391433}
   - component: {fileID: 5931255457791154594}
   - component: {fileID: 8564103846654381974}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: EButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
