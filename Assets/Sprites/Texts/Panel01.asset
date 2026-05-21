@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa62f8906b5026f4ca5d2fc5a9e4918e, type: 3}
   m_Name: Panel01
   m_EditorClassIdentifier: Assembly-CSharp::PanelSO
-  text: 
+  text: 'Welcome to Ewesong Valley! Your quest is to reach the Baroness''s castle
+    via the underground passages.    You can control your Sheep Sip by pressing TAB.  '

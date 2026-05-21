@@ -1,17 +1,23 @@
+using Microsoft.Unity.VisualStudio.Editor;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PannelManager : MonoBehaviour
 {
     
     public bool Proxi = false; //proxi = a proximite
     public bool dialogueManagerState = false;
+    public PanelSO PanelText;
 
     public GameObject Ebutton;
     public GameObject dialogueManagerObj;
+    public DialogueManager dialogueManager;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
+        dialogueManager = FindFirstObjectByType<DialogueManager>();
+        dialogueManagerObj.GetComponent<Sprite>();
     }
     void Start()
     {
@@ -28,12 +34,14 @@ public class PannelManager : MonoBehaviour
             {
                 dialogueManagerState = true;
                 dialogueManagerObj.SetActive(dialogueManagerState);
+                dialogueManager.pannelManager = this;
             }
 
             else
             {
                 dialogueManagerState = false;
                 dialogueManagerObj.SetActive(dialogueManagerState);
+                dialogueManager.pannelManager = null;
             }
 
         }
@@ -47,6 +55,7 @@ public class PannelManager : MonoBehaviour
         {
             Proxi = true;
             Ebutton.SetActive(true);
+            dialogueManager.pannelManager = this;
         }       
     }
 
@@ -56,6 +65,8 @@ public class PannelManager : MonoBehaviour
         {
             Proxi = false;
             Ebutton.SetActive(false);
+            dialogueManagerObj.SetActive(false);
+            dialogueManager.pannelManager = null;
         }
     }
 
